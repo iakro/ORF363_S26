@@ -6,4 +6,3 @@
 
 * **To download everything:** Click the green Code button at the top and select Download ZIP.
 
-* **Good luck!
