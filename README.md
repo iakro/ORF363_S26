@@ -5,3 +5,5 @@
 * **To view a file:** Click the folder name, then click the PDF filename.
 
 * **To download everything:** Click the green Code button at the top and select Download ZIP.
+
+* **Good luck!
